@@ -1,0 +1,10 @@
+{
+    "name": "haojiaxinl/mypack",
+    "authors": [
+        {
+            "name": "haojiaxin",
+            "email": "haojiaxin@100tal.com"
+        }
+    ],
+    "require": {}
+}
